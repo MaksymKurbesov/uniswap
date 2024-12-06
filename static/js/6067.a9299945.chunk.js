@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_uniswap_interface=self.webpackChunk_uniswap_interface||[]).push([[6067],{23683:(e,a,s)=>{s.r(a),s.d(a,{default:()=>f});const t=s.p+"static/media/rive.0347be38f1a707fb4ba4.wasm";var n=s(27427),u=s(45779);function f(){return(0,u.useEffect)((()=>{n.RuntimeLoader.setWasmUrl(t)}),[]),null}}}]);
+//# sourceMappingURL=6067.a9299945.chunk.js.map
